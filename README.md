@@ -19,3 +19,9 @@ dp: 95 115
 twopointer: 14
 
 tree: 208 114 113 116 117 111 105 106
+
+math 69 29
+
+arrary 41
+
+binary 33
